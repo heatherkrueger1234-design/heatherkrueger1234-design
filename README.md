@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hello%20There!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-<!--
-**heatherkrueger1234-design/heatherkrueger1234-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi, I'm Heather Krueger</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+* 🎨 UI/UX Designer & Frontend Developer
+* 🌱 I’m currently exploring modern web animation
+* 🤝 I’m open to freelance and collaboration opportunities
+* 📝 Ask me about: Figma, HTML5, CSS3, React
+* ⏳ Fun fact: I can solve a Rubik’s cube in under a minute
