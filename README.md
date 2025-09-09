@@ -27,12 +27,7 @@
 
 </div>
 
-<p align="justify">
-Welcome to my GitHub Page!  
-I am Heather Krueger, a Computer Engineering student who loves learning new things about programming and sharing them with others.  
-Alongside coding, I also enjoy design and creative work.  
 
-</p>
 
 ---
 
