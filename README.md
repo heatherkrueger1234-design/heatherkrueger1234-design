@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm Heather Krueger"/>
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Heather Krueger" title="👋 Hi there! I'm Heather Krueger"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/#/">
@@ -28,9 +28,10 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Heather Krueger and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/#">Barnamenevisinsta</a> that shares everything I learn about programming.
-
+Welcome to my GitHub Page. I am Heather Krueger and now Computer Engineering student. I learn new things about programming and teach these things to others. I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/#">Barnamenevisinsta</a> that shares everything I learn about programming.
 </p>
+
+---
 
 ## My favorite tools and technologies ⚙️
 
@@ -39,23 +40,23 @@ welcome to my GitHub Page. I am Heather Krueger and now Computer engineering stu
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="65" height="65" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
       <br>Django
     </td>
     <td align="center" width="96">
@@ -71,7 +72,7 @@ welcome to my GitHub Page. I am Heather Krueger and now Computer engineering stu
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
       <br>Nginx
     </td>
   </tr>
@@ -89,23 +90,23 @@ welcome to my GitHub Page. I am Heather Krueger and now Computer engineering stu
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="JQuery" />
       <br>JQuery
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
@@ -152,3 +153,86 @@ welcome to my GitHub Page. I am Heather Krueger and now Computer engineering stu
     </td>
   </tr>
 </table>
+
+---
+
+## Github stats 📊
+
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="heatherkrueger1234-design's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=heatherkrueger1234-design&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="heatherkrueger1234-design's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heatherkrueger1234-design&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</details>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heatherkrueger1234-design&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=heatherkrueger1234-design&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+</details>
+
+
+<details>
+  <summary>Wakatime ⏳</summary>
+  <br/>
+  <img src="https://wakatime.com/share/@heatherkrueger1234-design/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
+  <br/>
+  <br/>
+  <br/>
+
+  <img src="https://wakatime.com/share/@heatherkrueger1234-design/b43da924-55df-4315-897d-e4dd9fb798f9.png">
+</details>
+
+
+<details>
+  <summary>Extra Pins 📌</summary>
+  <br/>
+  <a href="https://github.com/heatherkrueger1234-design/Lorem-Farsi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=Lorem-Farsi&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/heatherkrueger1234-design/Happier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=Happier&theme=default" />
+</a>
+  <br/>
+  <br/>
+ 
+   <a href="https://github.com/heatherkrueger1234-design/telegram-bot-template">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=telegram-bot-template&theme=default" />
+ </a>
+
+   <br/>
+  <br/>
+ 
+   <a href="https://github.com/heatherkrueger1234-design/personal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=personal-site&theme=default" />
+ </a>
+ 
+</details>
+
+---
+
+## Recent GitHub Activity ✅
+
+![Metrics](https://metrics.lecoq.io/heatherkrueger1234-design?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
+
+---
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=heatherkrueger1234-design&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
