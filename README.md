@@ -26,10 +26,24 @@
 </a>
 
 </div>
-<p></p>
+
 <p align="justify">
-Welcome to my GitHub Page. I am Heather Krueger and now Computer Engineering student. I learn new things about programming and teach these things to others. I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/#">Barnamenevisinsta</a> that shares everything I learn about programming.
+Welcome to my GitHub Page!  
+I am Heather Krueger, a Computer Engineering student who loves learning new things about programming and sharing them with others.  
+Alongside coding, I also enjoy design and creative work.  
+
 </p>
+
+---
+
+### 👩‍💻 About Me  
+
+- 🎨 **UI/UX Designer & Frontend Developer**  
+- 🌱 Currently exploring **modern web animation**  
+- 🤝 Open to **freelance and collaboration opportunities**  
+- 📝 Ask me about: **Figma, HTML5, CSS3, React**  
+- ⏳ Fun fact: *I can solve a Rubik’s cube in under a minute!*  
+
 
 ---
 
