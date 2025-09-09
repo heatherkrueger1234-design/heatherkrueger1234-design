@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Heather Krueger" title="👋 Hi there! I'm Heather Krueger"/>
-<div align="justify">
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Heather+Krueger)
+
 
 <a href="https://www.instagram.com/#/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
