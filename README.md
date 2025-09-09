@@ -60,28 +60,6 @@
 
 ---
 
-## 📌 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/heatherkrueger1234-design/Lorem-Farsi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=Lorem-Farsi&theme=transparent" />
-  </a>
-  <a href="https://github.com/heatherkrueger1234-design/Happier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=Happier&theme=transparent" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/heatherkrueger1234-design/telegram-bot-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=telegram-bot-template&theme=transparent" />
-  </a>
-  <a href="https://github.com/heatherkrueger1234-design/personal-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=heatherkrueger1234-design&repo=personal-site&theme=transparent" />
-  </a>
-</p>
-
----
-
 ## 🏆 GitHub Profile Trophy  
 
 <p align="center">
